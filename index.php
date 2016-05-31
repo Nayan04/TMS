@@ -137,10 +137,12 @@ $('.owl-carousel').owlCarousel({
     <!-- Slides Container -->
     <div u="slides" style="cursor: move; position: absolute; left:0; top: 0px; width:1350px; height: 350px;
             overflow: hidden;">
-        <div><img u="image" src="faircert_website/images/demo/organic_header1.png" /></div>
-        <div><img u="image" src="faircert_website/images/demo/halal.png" /></div>
-         <div><img u="image" src="faircert_website/images/demo/foods.png" /></div>
+       
          <div><img u="image" src="faircert_website/images/demo/handling.png" /></div>
+         <div><img u="image" src="faircert_website/images/demo/org_1.png" /></div>
+        <div><img u="image" src="faircert_website/images/demo/textile.PNG" /></div>
+         <div><img u="image" src="faircert_website/images/demo/foods_new.png" /></div>
+         <div><img u="image" src="faircert_website/images/demo/textile1.PNG" /></div>
          
        
     </div>
